@@ -56,10 +56,6 @@ a {
 }
 
 /*Styling for Main Sections SEO, Online Rep, and Social Media Marketing*/
-p {
-    font-size: 16px;
-}
-
 
 main {
     width: 75%;
@@ -83,6 +79,10 @@ main {
 .main-sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .float-left {
